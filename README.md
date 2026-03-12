@@ -8,7 +8,7 @@ Link: https://revistaes.com.br/resumo-executivo/identificacao-de-garimpo-na-amaz
 <img width="1468" height="562" alt="Image" src="https://github.com/user-attachments/assets/4a3920c8-1b03-4a2c-9ed0-452c21cd2e44" />
 
 
-Resuno: 
+Resumo: 
 
 A Floresta Amazônica é um importante bioma do Brasil e do mundo, lar de diversos povos originários; porém nas últimas décadas diversas reservas indígenas tornaram-se alvo da exploração ilegal de garimpeiros. 
 Diante desse cenário, a adoção de novas tecnologias para monitoramento dessas terras é de suma importância. O sensoriamento remoto oferece uma solução prática de monitoramento, visto que essas regiões podem oferecer difícil acesso e os dados de satélite são públicos e gratuitos. 
